@@ -1,6 +1,6 @@
 ## Hi, I am Ansh Singh.
 
-Wanna be security researcher
+Wanna be security researcher.
 •Malware & Exploit Development.
 Also I'm interested to make my own flight controller :)
 
